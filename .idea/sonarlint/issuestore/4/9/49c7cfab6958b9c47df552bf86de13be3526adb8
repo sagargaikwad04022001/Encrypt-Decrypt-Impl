@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(±¨Ýœÿÿÿÿÿ8¢Ý“ŒÑ1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(øîåÒúÿÿÿÿ8¢Ý“ŒÑ1
+b	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(®Ìç†8£Ý“ŒÑ1
+F	java:S106"+Replace this use of System.out by a logger.(Û’ù8³Ý“ŒÑ1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÂÌô8³Ý“ŒÑ1
+>
+java:S5542"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8µÝ“ŒÑ1
+>
+java:S5542&"Use a secure padding scheme.(÷ÈÝÿøÿÿÿÿ8¶Ý“ŒÑ1
+|
+java:S1128"_Remove this unused import 'org.springframework.security.crypto.password.Pbkdf2PasswordEncoder'.(“£Ö‡8¹Ý“ŒÑ1
